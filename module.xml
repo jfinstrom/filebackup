@@ -1,0 +1,19 @@
+<module>
+	<rawname>filebackup</rawname>
+	<repo>unsupported</repo>
+	<name>File Backup</name>
+	<version>15.0.1</version>
+	<category>Development</category>
+	<Publisher>James Finstrom</Publisher>
+	<info>http://wiki.freepbx.org/pages/viewpage.action?pageId=19498386</info>
+	<licence>AGPLv3</licence>
+	<licenselink>http://www.gnu.org/licenses/gpl-2.0.txt</licenselink>
+	<depends>
+		<version>15</version>
+	</depends>
+	<supported>15.0</supported>
+	<description>This is a simple example of a module that simply backs up some files</description>
+	<changelog>
+		*15.0.1* Made a thing
+	</changelog>
+</module>
